@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'https://loclink-git-main-parth-guptas-projects-502efc4b.vercel.app/api';
 
 // Sample services data
 const servicesData = [
